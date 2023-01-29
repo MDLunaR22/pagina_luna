@@ -1,0 +1,134 @@
+a {
+    text-decoration: none;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.header {
+    background-color: rgb(35, 55, 109);
+    position: fixed;
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+
+.navbar-kinal {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 2%;
+
+}
+
+.img-kinal {
+    float: left;
+    position: fixed;
+    top: 13px;
+    padding-left: 5%;
+}
+
+.img-kinal img {
+    width: 150px;
+    height: 60px;
+}
+
+.img-link-kinal {
+    width: 100%;
+}
+
+.img-link-kinal ul {
+    left: 75%;
+    bottom: 45px;
+}
+
+.contenedor img {
+    width: 100%;
+}
+
+#eslogan img {
+    width: 50%;
+    height: 10%;
+    margin-left: 25%;
+}
+
+#eslogan p {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #23376D;
+}
+
+.texto {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 25%;
+}
+
+.texto p {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.extra {
+    margin-top: 5%;
+    background-color: #16233F;
+    color: white;
+    padding-top: 2%;
+}
+
+.jovenes-beneficiados {
+    text-align: center;
+    font-family: 'rubik-medium', sans-serif;
+    font-weight: bold;
+    padding-bottom: 2%;
+}
+
+.jovenes-beneficiados h3 {
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 2%;
+}
+
+.mini-titulo {
+    text-align: center;
+    padding-top: 40%;
+}
+
+#creando-oportunidades{
+    text-align: center;
+    padding-top: 80%;
+}
+
+.footer {
+	background-color: #23376d;
+	color: white;
+	padding: 15px;
+	text-align: center;
+    height: auto;
+	bottom: 0px;
+	width: 100%;
+    text-align: center;
+}
+
+.seccion-partners{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #23376d;
+    padding-top: 20px;
+}
